@@ -1,0 +1,14 @@
+{
+  "name": "tecscss2var",
+  "version": "1.0.0",
+  "description": "Load values from scss file with keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TeKO",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
